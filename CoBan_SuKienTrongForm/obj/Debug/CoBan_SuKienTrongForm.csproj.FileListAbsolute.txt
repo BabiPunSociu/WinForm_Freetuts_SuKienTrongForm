@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\bin\Debug\CoBan_SuKienTrongForm.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\bin\Debug\CoBan_SuKienTrongForm.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\bin\Debug\CoBan_SuKienTrongForm.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\obj\Debug\CoBan_SuKienTrongForm.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\obj\Debug\CoBan_SuKienTrongForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\obj\Debug\CoBan_SuKienTrongForm.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\obj\Debug\CoBan_SuKienTrongForm.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\obj\Debug\CoBan_SuKienTrongForm.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\obj\Debug\CoBan_SuKienTrongForm.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\obj\Debug\CoBan_SuKienTrongForm.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_SuKienTrongForm\CoBan_SuKienTrongForm\obj\Debug\CoBan_SuKienTrongForm.pdb
